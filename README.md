@@ -1,5 +1,8 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="ysfcorp's GitHub profile" src="dark_mode.svg" />
-</picture>
+Hey there!
+
+I'm Yusuf,
+A Computer Science undergraduate interested in mathematics, C++, Python, and quantitative research.
+
+Currently exploring algorithms, machine learning, and systematic approaches to financial markets.
+
+**Interests:** Quantitative Research · Algorithms · Mathematics · Machine Learning · Financial Markets
